@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on a microservices project with Python and FastAPI;
+- 🔭 I’m currently working on international project (outside Brazil) using Django, Flask, Docker, Postgres and AWS;
 - 🌱 I’m currently learning from the Full Cycle Course 2.0 at [Code Education](https://portal.code.education/);
 
 <center>
