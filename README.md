@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello world!
 Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on international project (outside Brazil) using Django, Flask, Docker, Postgres and AWS;
-- 🌱 I’m currently learning from the Full Cycle Course 2.0 at [Code Education](https://portal.code.education/);
+- 🔭 I’m currently looking for opportunities as Backend Engineer
+- 🌱 I’m currently studying from some books as CLean Code (Uncle Bob), Testing with Pytest and Intermediate Python;
 
 <center>
   <table>
