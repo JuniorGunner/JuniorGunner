@@ -2,7 +2,7 @@
 Welcome to my GitHub profile!
 
 - 🔭 I’m currently looking for opportunities as Backend Engineer
-- 🌱 I’m currently studying from some books as CLean Code (Uncle Bob), Testing with Pytest and Intermediate Python;
+- 🌱 I’m currently studying from some books as Clean Code (Uncle Bob), Testing with Pytest and Intermediate Python;
 
 <center>
   <table>
