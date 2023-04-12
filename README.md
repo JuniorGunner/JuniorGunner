@@ -15,7 +15,7 @@
   <img align="center" alt="JuniorGunner" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>-->
 
-[![JrGunner GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorGunner)](https://github.com/JuniorGunner/github-readme-stats)
+[![JrGunner GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorGunner&count_private=true&show_icons=true&theme=radical)](https://github.com/JuniorGunner/github-readme-stats)
   
   <br>
   <p>🎓 Computer Science - 2018</p>
