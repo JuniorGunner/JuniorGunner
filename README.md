@@ -1,8 +1,8 @@
 ### Junior Gunner
 <div>
   <a href="https://github.com/JuniorGunner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorGunner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGunner&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorGunner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGunner&layout=compact&langs_count=8&theme=tokyonight&hide_progress=true&hide=javascript"/>
 </div>
 
 <!--<div>
