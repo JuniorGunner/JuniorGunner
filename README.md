@@ -1,9 +1,9 @@
 ### Junior Gunner
-<!--<div>
+<div>
   <a href="https://github.com/JuniorGunner">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorGunner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGunner&layout=compact&langs_count=8&theme=dracula"/>
-</div>-->
+</div>
 
 <!--<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGunner&layout=compact&langs_count=8&theme=dark"/>
@@ -25,6 +25,7 @@
   <img align="center" alt="JrGunner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JrGunner-AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg">
   <img align="center" alt="JrGunner-Linux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Former_Ubuntu_logo.svg">
+  <img align="center" alt="JrGunner-Bash" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">
   <img align="center" alt="JrGunner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JrGunner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
