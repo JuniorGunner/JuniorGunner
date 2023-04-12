@@ -17,6 +17,9 @@
 
 [![JrGunner GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorGunner&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JuniorGunner/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGunner&hide=javascript&layout=compact&theme=tokyonight&hide_progress=true)](https://github.com/JuniorGunner/github-readme-stats)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JuniorGunner" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
   <br>
   <p>🎓 Computer Science - 2018</p>
