@@ -16,7 +16,7 @@
 </div>-->
 
 [![JrGunner GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorGunner&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JuniorGunner/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGunner)](https://github.com/JuniorGunner/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGunner&hide=javascript,jupyter notebook)](https://github.com/JuniorGunner/github-readme-stats)
   
   <br>
   <p>🎓 Computer Science - 2018</p>
