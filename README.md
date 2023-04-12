@@ -1,4 +1,4 @@
-### Junior Gunner
+### B.S. in Computer Science | Python Developer
 <div>
   <a href="https://github.com/JuniorGunner">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorGunner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -14,9 +14,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="JuniorGunner" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>-->
-
-[![JrGunner GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorGunner&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JuniorGunner/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGunner&hide=javascript&layout=compact&theme=tokyonight&hide_progress=true)](https://github.com/JuniorGunner/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <!--<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
