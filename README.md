@@ -43,7 +43,7 @@
   <br>
   <br>
   <p>🎓 Computer Science - 2018</p>
-  <p>🌱 I’m currently studying to get AWS Solutions Architect Certification</p>
+  <p>🌱 I’m currently studying to get AWS Solutions Architect Associate Certification</p>
   
   <!--
 
