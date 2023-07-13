@@ -43,7 +43,7 @@
   <br>
   <br>
   <p>🎓 B.S. in Computer Science - 2018</p>
-  <a href="https://juniorgunner.github.io/">Personal Website - Portfolio</a>
+  <p>:earth_americas: <a href="https://juniorgunner.github.io/">Personal Website - Portfolio</a></p>
   <p>🌱 I’m currently studying to get AWS Solutions Architect Associate Certification</p>
   
   <!--
