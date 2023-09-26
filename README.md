@@ -1,4 +1,4 @@
-### B.S. in Computer Science | Python Developer
+### Python Developer | Backend Software Engineer | B.S. in Computer Science
 <div>
   <a href="https://github.com/JuniorGunner">
   <img height="180em" width="350" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuniorGunner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -21,6 +21,16 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
   <img align="center" alt="JrGunner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JrGunner-AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg">
+  
+  <img align="center" alt="JrGunner-Django" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png">
+  <img align="center" alt="JrGunner-Flask" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/flask.svg">
+  <img align="center" alt="JrGunner-FastAPI" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
+  <img align="center" alt="JrGunner-Docker" height="30" width="40" src="https://www.svgrepo.com/show/331370/docker.svg">
+  <img align="center" alt="JrGunner-PostgreSQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png">
+  <img align="center" alt="JrGunner-MySQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/1200px-Antu_mysql-workbench.svg.png">
+  <img align="center" alt="JrGunner-MongoDB" height="30" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg">
+  <img align="center" alt="JrGunner-Redis" height="30" width="40" src="https://www.svgrepo.com/show/303460/redis-logo.svg">
+  
   <img align="center" alt="JrGunner-Linux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Former_Ubuntu_logo.svg">
   <img align="center" alt="JrGunner-Bash" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">
   <img align="center" alt="JrGunner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
