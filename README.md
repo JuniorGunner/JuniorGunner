@@ -1,4 +1,4 @@
-### Python Developer | Backend Software Engineer | B.S. in Computer Science
+### Python Developer | Backend Software Engineer | AWS | DevOps | B.S. in Computer Science
 <div>
   <a href="https://github.com/JuniorGunner">
   <img height="180em" width="350" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuniorGunner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
