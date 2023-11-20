@@ -1,5 +1,8 @@
 ### Python Developer | Backend Software Engineer | AWS | DevOps | B.S. in Computer Science
 <div>
+   <img align="center" src="https://github.com/JuniorGunner/JuniorGunner/assets/12654382/99695c8b-529a-4a3d-b95b-9ea0000b6ef0"alt="JuniorGunner"/> 
+</div>
+<div>
   <a href="https://github.com/JuniorGunner">
   <img height="180em" width="350" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuniorGunner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="320" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuniorGunner&layout=compact&langs_count=8&theme=tokyonight&hide_progress=true&hide=javascript"/>
